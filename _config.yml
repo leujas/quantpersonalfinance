@@ -25,11 +25,11 @@ contact:
 
 
 # Comment Section (Disqus)
-#disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: personalfinance101 # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
-#google-analytics: # add your identifier. For example UA-99631805-1.
+google-analytics: UA-157016457-1 # add your identifier. For example UA-99631805-1.
 
 
 # Build settings
