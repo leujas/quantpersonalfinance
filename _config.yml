@@ -1,0 +1,72 @@
+title: AusFinance
+logo:  # you can add own logo.
+description: A Quantiative Look at Personal Finance
+baseurl: "/ausfinance" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Author Settings
+author:
+  name: AusFinance
+  image: '/assets/img/kangaroo.jpg'
+  job: Australian Personal Finance
+  bio: A Quantiative Look at Personal Finance
+  email: jwpleu@gmail.com
+
+
+# Contact links
+contact:
+#  - name: Twitter
+#    link: https://twitter.com/
+#  - name: Facebook
+#    link: https://facebook.com/
+#  - name: Instagram
+#    link: https://instagram.com/
+
+
+# Comment Section (Disqus)
+#disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
+
+
+# Google Analytics
+#google-analytics: # add your identifier. For example UA-99631805-1.
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll/tagging
+  - jekyll-feed
+  - jekyll-seo-tag
+# configure kramdown
+kramdown:
+  parse_block_html: true
+  input: GFM
+  
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag-page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
