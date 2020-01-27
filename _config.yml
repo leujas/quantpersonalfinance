@@ -1,8 +1,8 @@
 title: QuantPersonalFinance
 logo:  # you can add own logo.
 description: A Quantiative Look at Personal Finance for Young Professionals
-baseurl: "/quantpersonalfinance" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://quantpersonalfinance.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
