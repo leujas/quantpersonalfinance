@@ -1,15 +1,15 @@
-title: QuantPersonalFinance
+title: PersonalFinance101
 logo:  # you can add own logo.
 description: A Quantiative Look at Personal Finance for Young Professionals
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://quantpersonalfinance.com.au" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://personalfinance101.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
   name: Australia Personal Finance
   image: '/assets/img/kangaroo.jpg'
-  job: Quant Personal Finance
+  job: Personal Finance 101
   bio: A Quantiative Look at Personal Finance for Young Professionals
   email: jwpleu@gmail.com
 
