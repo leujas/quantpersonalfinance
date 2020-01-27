@@ -15,4 +15,4 @@ As a student of engineering and finance, and currently working at a global inves
 
 ***
 
-While this is a blog on personal finance, at the end of the day, remember to prioritize your life. Remember, a few extra bucks won't replace family time and the graveyards are full of indispensable people.
+While this is a blog on personal finance, at the end of the day, remember to prioritize your life. Remember, a few extra bucks won't replace family time. And even financial optimization follows the Law of Diminishing Returns.
